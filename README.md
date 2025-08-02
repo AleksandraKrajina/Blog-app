@@ -44,7 +44,3 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[Redberry](https://redberry.international/laravel-development)**
 - **[Active Logic](https://activelogic.com)**
 
-<img width="1888" height="821" alt="image" src="https://github.com/user-attachments/assets/453bb40e-4e19-446f-851f-02009f63c37a" />
-
-<img width="1897" height="810" alt="image" src="https://github.com/user-attachments/assets/bff46ee8-601a-47ed-945b-4ae9a7589b26" />
-
